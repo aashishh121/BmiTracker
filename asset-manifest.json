@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BmiTracker/static/css/main.2ad972b0.css",
+    "main.js": "/BmiTracker/static/js/main.12af4aaf.js",
+    "index.html": "/BmiTracker/index.html",
+    "main.2ad972b0.css.map": "/BmiTracker/static/css/main.2ad972b0.css.map",
+    "main.12af4aaf.js.map": "/BmiTracker/static/js/main.12af4aaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad972b0.css",
+    "static/js/main.12af4aaf.js"
+  ]
+}
